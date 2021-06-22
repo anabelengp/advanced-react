@@ -10,11 +10,13 @@
     "@babel/plugin-transform-runtime": "^7.14.5",
     "eslint": "^7.28.0",
     "eslint-plugin-react": "^7.24.0",
+    "jest": "^27.0.4",
     "webpack-cli": "^4.7.2"
   },
   "scripts": {
     "dev": "pm2 start lib/server.js --watch --interpreter babel-node",
-    "webpack": "webpack --watch --devtool eval"
+    "webpack": "webpack --watch --devtool eval",
+    "test": "jest --watch"
   },
   "babel": {
     "presets": [
