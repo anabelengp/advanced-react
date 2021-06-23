@@ -8,12 +8,8 @@ exports[`ArticleList renders correctly 1`] = `
       Invalid Date
     </div>
     <div>
-      <a
-        href="www.dot.com"
-      >
-        a1
+      <a>
          
-        a11
       </a>
     </div>
     <div />
@@ -24,12 +20,8 @@ exports[`ArticleList renders correctly 1`] = `
       Invalid Date
     </div>
     <div>
-      <a
-        href="www.dot2.com"
-      >
-        a2
+      <a>
          
-        a21
       </a>
     </div>
     <div />
