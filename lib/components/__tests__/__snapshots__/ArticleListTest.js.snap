@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ArticleList renders correctly 1`] = `
+<div>
+  <div>
+    <div />
+    <div>
+      Invalid Date
+    </div>
+    <div>
+      <a
+        href="www.dot.com"
+      >
+        a1
+         
+        a11
+      </a>
+    </div>
+    <div />
+  </div>
+  <div>
+    <div />
+    <div>
+      Invalid Date
+    </div>
+    <div>
+      <a
+        href="www.dot2.com"
+      >
+        a2
+         
+        a21
+      </a>
+    </div>
+    <div />
+  </div>
+</div>
+`;
